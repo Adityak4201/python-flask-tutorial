@@ -1,4 +1,4 @@
 {
-    "python.pythonPath": "env/bin/python",
+    "python.pythonPath": "/home/gitpod/.pyenv/versions/3.8.12/bin/python",
     "python.formatting.provider": "black"
 }
